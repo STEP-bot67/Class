@@ -1,0 +1,8 @@
+{
+  "name": "The Class",
+  "description": "An intelligent academic companion that generates concise summaries and insights from study materials in Google Drive folders.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
